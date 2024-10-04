@@ -1,0 +1,103 @@
+header{
+    background-color: teal;
+    height: 200;
+}
+.block1{
+    float: left;
+    width: 40%;
+    
+}
+.block2{
+    float: right;
+    width: 20%;
+    height: 40px;
+}
+.c1{
+    border: 2px ;
+    width: 100%;
+    height: 100px;
+}
+
+.c1_p1{
+    border: 2px ;
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+
+.c1_p2{
+    border: 2px ;
+    width: 65%;
+    height: 150px;
+    float: right;  
+}
+
+.c2{
+    border: 2px ;
+    width: 100%;
+    height: 200px;
+}
+
+.c2_p1{
+    border: 2px ;
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+
+.c2_p2{
+    border: 2px ;
+    width: 65%;
+    height: 150px;
+    float: right;  
+}
+
+.c3{
+    border: 2px ;
+    width: 100%;
+    height: 120px;
+}
+
+.c3_p1{
+    border: 2px ;
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+
+.c3_p2{
+    border: 2px ;
+    width: 65%;
+    height: 150px;
+    float: right;  
+}
+
+.c4{
+    border: 2px ;
+    width: 100%;
+    height: 200px;
+}
+
+.c4_p1{
+    border: 2px ;
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+
+.c4_p2{
+    border: 2px ;
+    width: 65%;
+    height: 80px;
+    float: right;  
+}
+h2{
+    background-color: grey;
+}
+h3{
+    text-align: center;
+}
+
+footer{
+    background-color: teal;
+};
